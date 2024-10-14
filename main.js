@@ -11,5 +11,14 @@ Buon lavoro! */
 
 
 // ! Raccolta dati
+// chiedo l'età del passeggero
+// chiedo quanti km devono percorrere 
 // ! Elaborazione
+// verifico l'età dei passeggeri
+// SE l'età del passeggero è inferiore a 
+//               18 applico lo sconto del 20%
+// ALTRIMENTI l'età del passeggero è maggiore di 65
+//                applico lo sconto del 40%
+//ALTRIMENTI paga il prezzo pieno 
 // ! Output 
+// stampo il messaggio 
